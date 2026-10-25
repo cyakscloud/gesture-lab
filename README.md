@@ -2,7 +2,7 @@
 
 **A webcam, a hand, and a tiny bit of sci-fi.** PALM//PILOT reads hand poses live, keeps the camera feed on your laptop, and gives you a clean little control-room view of what it thinks it sees.
 
-Stark-level ambition, garage-level budget: glowing landmarks, a live HUD, and numbers that tell the truth. The suit budget is still zero. I wanted the first launch to feel like powering up a prototype, not opening a notebook and praying—one command, a real camera window, and steady labels instead of frame-to-frame chaos.
+Stark-level ambition, garage-level budget: glowing landmarks, a live HUD, and numbers that tell the truth. The suit budget is still zero. I wanted the first launch to feel like powering up a prototype, not opening a notebook and praying, one command, a real camera window, and steady labels instead of frame-to-frame chaos.
 
 ## Spin it up on Windows
 
